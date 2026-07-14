@@ -1,0 +1,12 @@
+{
+  "name": "weather-mock-api",
+  "version": "1.0.0",
+  "description": "A mock weather API that mimics the Dark Sky API response format",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
